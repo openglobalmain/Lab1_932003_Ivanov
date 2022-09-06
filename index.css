@@ -1,0 +1,51 @@
+body {
+   
+    color: white;
+
+    background-color: white;
+
+    }
+
+section#bub{
+    margin-left: 34%;
+    margin-right: 34%;    
+    background-color:blue;
+    padding-left: 1%;
+    padding-right: 1%; 
+    font-family: "Microsoft Sans Serif";
+    font-size: smaller;
+    line-height: 1.3;
+
+}
+ul{margin-bottom: -10px; }
+h1{margin-bottom: px;}
+h2{margin-bottom: -10px;}
+h3{margin-bottom: -1px;}
+#fir{font-size: larger;}
+#aqua{color: aqua}
+#here{color:red;}
+div#link {
+    text-align: center;
+    }
+    
+    a {
+    color: red;
+    text-decoration: underline;
+    }
+header {
+    margin-bottom: -20px;
+    text-align: center;
+    width: 100%;
+    font-family: "Courier new";
+    background-color: green;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 6px;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    background-color: green;
+    padding: 6px;
+    font-family: "Microsoft Sans Serif";
+}
