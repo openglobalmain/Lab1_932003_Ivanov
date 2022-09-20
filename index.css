@@ -22,7 +22,9 @@ h1{margin-bottom: px;}
 h2{margin-bottom: -10px;}
 h3{margin-bottom: -1px;}
 #fir{font-size: larger;}
-#aqua{color: aqua}
+#aqua{color: aqua;
+    letter-spacing: 4px;
+    }
 #here{color:red;}
 div#link {
     text-align: center;
